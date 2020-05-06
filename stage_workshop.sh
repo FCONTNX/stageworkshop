@@ -29,11 +29,10 @@ WORKSHOPS=(\
 "Cloud Native CI/CD with Calm and Karbon Bootcamp (AOS 5.11.x/AHV PC 5.16.1.2) = Current" \
 "In Development Bootcamp Staging (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.17) = Development" \
 "In Development SNC (1-Node) Bootcamp Staging (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.17) = Development" \
-
+"Tech Summit 2020 (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"SNC (1-Node) Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"Previous SNC (1-Node) Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
-"Tech Summit 2020 (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"SNC_GTS 2020 (AOS 5.11.x/AHV PC 5.11.2.1) = Development" \
 #"Tech Summit 2019 (AOS 5.10+/AHV PC 5.10+) = Stable" \
 ) # Adjust function stage_clusters, below, for file/script mappings as needed
