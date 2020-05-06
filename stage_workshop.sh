@@ -33,7 +33,7 @@ WORKSHOPS=(\
 #"SNC (1-Node) Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"Previous SNC (1-Node) Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
-#"Tech Summit 2020 (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
+"Tech Summit 2020 (AOS 5.11.x/AHV PC 5.11.2.1) = Stable" \
 #"SNC_GTS 2020 (AOS 5.11.x/AHV PC 5.11.2.1) = Development" \
 #"Tech Summit 2019 (AOS 5.10+/AHV PC 5.10+) = Stable" \
 ) # Adjust function stage_clusters, below, for file/script mappings as needed
